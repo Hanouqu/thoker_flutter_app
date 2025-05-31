@@ -1,10 +1,16 @@
 # Thokur_flutter_app
 
-A new Flutter project.
 
-## Getting Started
 
+## 💰 Thokur – Personal Saving Tracker
+Thokur is a simple and user-friendly mobile application that helps you manage your expenses and stay on track with your saving goals.
+
+## 🎯 Purpose of the App:
+
+The app is designed to support users in monitoring their savings progress, staying motivated, and building healthy financial habits.
 This project is a starting point for a Flutter application.
+
+
 
 A few resources to get you started if this is your first Flutter project:
 
