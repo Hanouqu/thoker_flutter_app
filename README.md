@@ -1,4 +1,4 @@
-# flutter_application_2
+# Thokur_flutter_app
 
 A new Flutter project.
 
