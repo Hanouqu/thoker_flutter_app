@@ -9,6 +9,7 @@ Thokur is a simple and user-friendly mobile application that helps you manage yo
 
 The app is designed to support users in monitoring their savings progress, staying motivated, and building healthy financial habits.
 
+![App Screenshot](images/screenshot.png)
 
 This project is a starting point for a Flutter application.
 
